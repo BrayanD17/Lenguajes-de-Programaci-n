@@ -1,0 +1,1 @@
+Este documento fue hecho en Dr Racket, contiene 4 ejercicios asignaros para la clase magistral del curso Lenguajes de programacion
