@@ -1,0 +1,1 @@
+Se utilizo el IDE IntelliJ IDEA para el desarrollo del sistema, ademas de utilizar el lenguaje Java
